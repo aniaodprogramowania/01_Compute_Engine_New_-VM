@@ -61,4 +61,4 @@ sudo echo "<!DOCTYPE html> <html> <body style='background-color:rgb(211, 211, 21
 7. Font Settings – adjust the font style used in the terminal.
 
 ## Step-07: Explore this section with short demo on YT
-[Obejrzyj na YouTube](https://www.youtube.com/watch?v=L1ZvRPdOIi8)
+[Watch this](https://www.youtube.com/watch?v=L1ZvRPdOIi8)
