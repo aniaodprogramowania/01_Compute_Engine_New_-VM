@@ -59,3 +59,6 @@ sudo echo "<!DOCTYPE html> <html> <body style='background-color:rgb(211, 211, 21
 5. Download File – retrieve files from the VM instance to the local machine.
 6. Copy & Paste Settings – configure how text is copied from and pasted into the SSH terminal.
 7. Font Settings – adjust the font style used in the terminal.
+
+## Step-07: Explore this section with short demo on YT
+[Obejrzyj na YouTube](https://www.youtube.com/watch?v=L1ZvRPdOIi8)
